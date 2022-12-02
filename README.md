@@ -14,3 +14,8 @@ The datasheet contains the specifications, schematic, and adjustment procedures 
 These are the exact same gerber that were used to order the PCBs seen in the video through PCBWay. Be sure to click "No soldermask" and "No silkscreen" when order the PCBs for the legs. The Gerber files are available in ZIP form [by clicking this link.](https://github.com/Nakazoto/ue555/tree/main/Gerber%20Files)
 
 ![](https://github.com/Nakazoto/ue555/blob/main/Pictures/GerberPic.png)
+
+# Design File
+The original design file was built in a program called [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software), and is available in .PCB form [by clicking this link.](https://github.com/Nakazoto/ue555/blob/main/DesignFile.pcb)
+
+![](https://github.com/Nakazoto/ue555/blob/main/Pictures/DesignSparkPic.jpg)
